@@ -15,6 +15,13 @@
 - Drag and Drop Card inside List
 - Delete Card, List and Board
 
+```
+# Sample Login
+
+herdy123@gmail.com
+123456
+```
+
 ## Build Setup
 
 ```bash
