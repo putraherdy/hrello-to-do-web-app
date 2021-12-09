@@ -1,6 +1,19 @@
 # Hrello
 
-To Do List Web App
+> To Do List Web App
+
+## Features
+
+- Signin with Firebase
+- Signin with Firebase as Guest
+- Add Board
+- Change Board Color
+- Change Board Background
+- Create New List
+- Add Card inside List
+- Edit Card inside List
+- Drag and Drop Card inside List
+- Delete Card, List and Board
 
 ## Build Setup
 
@@ -36,7 +49,6 @@ More information about the usage of this directory in [the documentation](https:
 Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
-
 
 ### `pages`
 
