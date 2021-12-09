@@ -1,6 +1,6 @@
 # Hrello
 
-> To Do List Web App
+> To Do List Web App built with VueJS, NuxtJS, Firebase and Vuetify
 
 ## Features
 
