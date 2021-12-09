@@ -16,7 +16,7 @@
 - Delete Card, List and Board
 
 ```
-# Sample Login
+Sample Login
 
 herdy123@gmail.com
 123456
